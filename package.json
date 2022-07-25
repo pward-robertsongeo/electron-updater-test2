@@ -18,7 +18,7 @@
     "electron-updater": "^4.3.9"
   },
   "build": {
-    "appId": "com.github.pward-robertsongeo.electronupdatertest2",
+    "appId": "com.github.pward-robertsongeo.electron-updater-test2",
     "afterSign": "./build/notarize.js",
     "mac": {
       "category": "your.app.category.type"
